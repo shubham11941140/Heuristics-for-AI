@@ -12,3 +12,6 @@
 **PDDL Documentation: http://pddl4j.imag.fr/**
 
 **SAT Solver used: STRIPS - https://en.wikipedia.org/wiki/Stanford_Research_Institute_Problem_Solver**
+
+![using_strips](https://user-images.githubusercontent.com/63910248/168816932-3fa3e28a-7fb1-4262-9510-4dad1f3d61a9.png)
+
