@@ -42,3 +42,43 @@ Contains a variety of heuristic algorithms to solve some real-world problems.
 
 ![image](https://user-images.githubusercontent.com/63910248/168780927-6ad24490-3072-479b-b07b-d5c93cdd9258.png)
 
+## Genetic Algorithm
+
+![image](https://user-images.githubusercontent.com/63910248/168784837-957b94ad-b862-4d69-93c4-cf675c9fdecc.png)
+
+**We need to maximise the survival points**
+
+**Ensure we properly represent the chromosomes, fitness function, crossover, mutation etc**
+
+## Genetic Algorithm Solution Approach
+
+The length of the gene is equal to the available number of objects and the value of the chromosomes in the gene will be 1 or 0 based on selection of the object, like if we are picking the object then the value of chromosomes will be 1 and 0 otherwise.
+
+## How the fitness is calculated
+
+Fitness of the gene is based on the sum of the values of the object taken,loss for the object not taken and total weight of the bag
+
+The **Pseudo Code** of the function is given below
+```
+fitness_function()
+
+	  if(total weight of the bag is greater than max  OR total value less than 0)
+	      then fitness = 0
+	  else
+	      then fitness = ((total values * (sum of weights of all object)) + weight)
+```
+The above fitness function give more priority to the gene with lowest weight if compared to all the gene with same value
+
+## The function for choosing
+
+The best gene is chosen based on the Roulette selection technique, in which the gene with more fitness level has relatively high probability of getting chosen.
+
+## Cross-Over and Mutation
+
+For cross over two genes are selected from the current generation and they are randomly sliced from between and the the first part is swapped and the for each chromosome in both genes we do mutation with probability of 0.1
+
+### Solution:
+
+![image](https://user-images.githubusercontent.com/63910248/168785958-eaa8eb6b-f9cc-4755-8b86-04c17f6639ab.png)
+
+
