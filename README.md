@@ -10,4 +10,9 @@ Solution using BFS
 ![image](https://user-images.githubusercontent.com/63910248/168763617-c422d095-abb9-44e7-ab15-2029c431d3bd.png)
 ![image](https://user-images.githubusercontent.com/63910248/168763691-3b0d78d0-b913-4c54-93be-d1d32db9e967.png)
 
+Solution using DFS
+
+![image](https://user-images.githubusercontent.com/63910248/168765541-b4e2158e-6820-450c-ac39-ee23bc0f550b.png)
+
+
 
