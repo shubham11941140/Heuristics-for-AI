@@ -32,13 +32,13 @@ The run the code to open the terminal move the directory where the code is prese
 type the command in windows :- (Let us say that the input file is eg_sudoku.txt)
 
 ```
-python question1.py eg_sudoku.txt
+python csp.py eg_sudoku.txt
 ```
 
 For ```input.txt```:
 
 ```
-python question1.py input.txt
+python csp.py input.txt
 ```
 
 for linux try the same command or try with "python3" instead of "python"
