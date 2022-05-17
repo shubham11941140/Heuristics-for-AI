@@ -30,3 +30,6 @@ Run using
 python3 bayesian.py
 ```
 
+## Output:
+
+**The value at 0 is the answer for particular queries as specified.**
