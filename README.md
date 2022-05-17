@@ -26,3 +26,11 @@ Contains a variety of heuristic algorithms to solve some real-world problems.
 
 ![image](https://user-images.githubusercontent.com/63910248/168769138-e797bd05-d489-4d56-a993-aadef7c18fde.png)
 
+## Optimal Tic Tac Toe
+
+![image](https://user-images.githubusercontent.com/63910248/168779114-a20dfa29-e2f3-4479-ad54-76e775ca6e92.png)
+
+### Optimal Scoring at each level
+
+![image](https://user-images.githubusercontent.com/63910248/168779270-5e3ac8ae-eadb-4959-9d45-89d2a304d082.png)
+
