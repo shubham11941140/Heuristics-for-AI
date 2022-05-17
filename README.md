@@ -81,4 +81,12 @@ For cross over two genes are selected from the current generation and they are r
 
 ![image](https://user-images.githubusercontent.com/63910248/168785958-eaa8eb6b-f9cc-4755-8b86-04c17f6639ab.png)
 
+## Constraint Satisfaction Problem - Sudoku Solver
+
+![image](https://user-images.githubusercontent.com/63910248/168803357-a6e226ec-9b6c-4c6b-8b11-e63492caa67e.png)
+
+### Solution:
+
+![image](https://user-images.githubusercontent.com/63910248/168803465-06814d3b-ff74-435d-b0d6-ef1b311efeea.png)
+
 
