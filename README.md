@@ -14,5 +14,7 @@ Solution using DFS
 
 ![image](https://user-images.githubusercontent.com/63910248/168765541-b4e2158e-6820-450c-ac39-ee23bc0f550b.png)
 
+Solution using A*
 
+![image](https://user-images.githubusercontent.com/63910248/168765847-0b9adbdb-d2b8-432a-b3f1-769f214c0665.png)
 
