@@ -1,6 +1,10 @@
 # Heuristics-for-AI
 Contains a variety of heuristic algorithms to solve some real-world problems.
 
+Few problems have been solved using **Programming Domain Definition Language (PDDL)**
+
+**A folder named Programming Domain Definition Language (PDDL) is added that contains study material and references to work with PDDL.**
+
 ## N-Puzzle
 
 ![image](https://user-images.githubusercontent.com/63910248/168763166-29a5b5db-172b-4031-a1c3-8bab69edf08a.png)
@@ -120,6 +124,8 @@ For cross over two genes are selected from the current generation and they are r
 ![Final Plan Problem Solution](https://user-images.githubusercontent.com/63910248/168809552-c4a31b41-e3d0-43a8-b7f0-98116ef889eb.PNG)
 
 # Programming Domain Definition Language (PDDL) 
+
+A folder named Programming Domain Definition Language (PDDL) is added that contains study material and references to work with PDDL.
 
 **Refer to: https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language**
 
