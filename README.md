@@ -115,4 +115,30 @@ For cross over two genes are selected from the current generation and they are r
 
 ![Final Plan Problem Solution](https://user-images.githubusercontent.com/63910248/168809552-c4a31b41-e3d0-43a8-b7f0-98116ef889eb.PNG)
 
+# Programming Domain Definition Language (PDDL) 
+
+**Refer to: https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language**
+
+## Ball Dropping
+
+![image](https://user-images.githubusercontent.com/63910248/168811408-c129293a-eb1b-434d-ad81-5bbac6d95d12.png)
+
+### Solution:
+
+![Planner Output Robot](https://user-images.githubusercontent.com/63910248/168811533-974e8b63-0339-491b-9dc5-c342392ff953.PNG)
+
+## Logisitics:
+
+![image](https://user-images.githubusercontent.com/63910248/168811671-4c2a8fb5-7611-46dc-8b07-1fbed91129b4.png)
+
+![image](https://user-images.githubusercontent.com/63910248/168811709-8c1453fd-c4f9-486b-8f41-7dc04d959e36.png)
+
+
+### Solution:
+
+![Planner Output Logistics 1](https://user-images.githubusercontent.com/63910248/168811882-41349ae0-4896-478f-92f2-4ab1a071773c.PNG)
+
+![Planner Output Logistics 2](https://user-images.githubusercontent.com/63910248/168811903-24b4fd72-f682-4e5e-8acb-df7703a9ab3f.PNG)
+
+
 
