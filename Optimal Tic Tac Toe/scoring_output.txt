@@ -1,0 +1,2632 @@
+LEVEL is: 1 
+
+The Number of Matrices at this level is: 1 
+
+The Matrix Number is: 1
+
+|_X_|
+|0__|
+|X_0|
+
+The Score is: 0
+
+LEVEL is: 2 
+
+The Number of Matrices at this level is: 5 
+
+The Matrix Number is: 1
+
+|XX_|
+|0__|
+|X_0|
+
+The Score is: 3
+
+The Matrix Number is: 2
+
+|_XX|
+|0__|
+|X_0|
+
+The Score is: 5
+
+The Matrix Number is: 3
+
+|_X_|
+|0X_|
+|X_0|
+
+The Score is: 6
+
+The Matrix Number is: 4
+
+|_X_|
+|0_X|
+|X_0|
+
+The Score is: 2
+
+The Matrix Number is: 5
+
+|_X_|
+|0__|
+|XX0|
+
+The Score is: 2
+
+LEVEL is: 3 
+
+The Number of Matrices at this level is: 20 
+
+The Matrix Number is: 1
+
+|XX0|
+|0__|
+|X_0|
+
+The Score is: -3
+
+The Matrix Number is: 2
+
+|XX_|
+|00_|
+|X_0|
+
+The Score is: -1
+
+The Matrix Number is: 3
+
+|XX_|
+|0_0|
+|X_0|
+
+The Score is: -1
+
+The Matrix Number is: 4
+
+|XX_|
+|0__|
+|X00|
+
+The Score is: 2
+
+The Matrix Number is: 5
+
+|0XX|
+|0__|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 6
+
+|_XX|
+|00_|
+|X_0|
+
+The Score is: -3
+
+The Matrix Number is: 7
+
+|_XX|
+|0_0|
+|X_0|
+
+The Score is: 3
+
+The Matrix Number is: 8
+
+|_XX|
+|0__|
+|X00|
+
+The Score is: 4
+
+The Matrix Number is: 9
+
+|0X_|
+|0X_|
+|X_0|
+
+The Score is: 5
+
+The Matrix Number is: 10
+
+|_X0|
+|0X_|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 11
+
+|_X_|
+|0X0|
+|X_0|
+
+The Score is: 4
+
+The Matrix Number is: 12
+
+|_X_|
+|0X_|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 13
+
+|0X_|
+|0_X|
+|X_0|
+
+The Score is: -1
+
+The Matrix Number is: 14
+
+|_X0|
+|0_X|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 15
+
+|_X_|
+|00X|
+|X_0|
+
+The Score is: -2
+
+The Matrix Number is: 16
+
+|_X_|
+|0_X|
+|X00|
+
+The Score is: 1
+
+The Matrix Number is: 17
+
+|0X_|
+|0__|
+|XX0|
+
+The Score is: -1
+
+The Matrix Number is: 18
+
+|_X0|
+|0__|
+|XX0|
+
+The Score is: -2
+
+The Matrix Number is: 19
+
+|_X_|
+|00_|
+|XX0|
+
+The Score is: -6
+
+The Matrix Number is: 20
+
+|_X_|
+|0_0|
+|XX0|
+
+The Score is: -2
+
+LEVEL is: 4 
+
+The Number of Matrices at this level is: 60 
+
+The Matrix Number is: 1
+
+|XX0|
+|0X_|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 2
+
+|XX0|
+|0_X|
+|X_0|
+
+The Score is: 1
+
+The Matrix Number is: 3
+
+|XX0|
+|0__|
+|XX0|
+
+The Score is: -1
+
+The Matrix Number is: 4
+
+|XXX|
+|00_|
+|X_0|
+
+The Score is: 5
+
+The Matrix Number is: 5
+
+|XX_|
+|00X|
+|X_0|
+
+The Score is: 3
+
+The Matrix Number is: 6
+
+|XX_|
+|00_|
+|XX0|
+
+The Score is: -1
+
+The Matrix Number is: 7
+
+|XXX|
+|0_0|
+|X_0|
+
+The Score is: 9
+
+The Matrix Number is: 8
+
+|XX_|
+|0X0|
+|X_0|
+
+The Score is: 6
+
+The Matrix Number is: 9
+
+|XX_|
+|0_0|
+|XX0|
+
+The Score is: 1
+
+The Matrix Number is: 10
+
+|XXX|
+|0__|
+|X00|
+
+The Score is: 10
+
+The Matrix Number is: 11
+
+|XX_|
+|0X_|
+|X00|
+
+The Score is: 5
+
+The Matrix Number is: 12
+
+|XX_|
+|0_X|
+|X00|
+
+The Score is: 4
+
+The Matrix Number is: 13
+
+|0XX|
+|0X_|
+|X_0|
+
+The Score is: 11
+
+The Matrix Number is: 14
+
+|0XX|
+|0_X|
+|X_0|
+
+The Score is: 1
+
+The Matrix Number is: 15
+
+|0XX|
+|0__|
+|XX0|
+
+The Score is: 2
+
+The Matrix Number is: 16
+
+|XXX|
+|00_|
+|X_0|
+
+The Score is: 5
+
+The Matrix Number is: 17
+
+|_XX|
+|00X|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 18
+
+|_XX|
+|00_|
+|XX0|
+
+The Score is: -3
+
+The Matrix Number is: 19
+
+|XXX|
+|0_0|
+|X_0|
+
+The Score is: 9
+
+The Matrix Number is: 20
+
+|_XX|
+|0X0|
+|X_0|
+
+The Score is: 14
+
+The Matrix Number is: 21
+
+|_XX|
+|0_0|
+|XX0|
+
+The Score is: 5
+
+The Matrix Number is: 22
+
+|XXX|
+|0__|
+|X00|
+
+The Score is: 10
+
+The Matrix Number is: 23
+
+|_XX|
+|0X_|
+|X00|
+
+The Score is: 11
+
+The Matrix Number is: 24
+
+|_XX|
+|0_X|
+|X00|
+
+The Score is: 5
+
+The Matrix Number is: 25
+
+|0XX|
+|0X_|
+|X_0|
+
+The Score is: 11
+
+The Matrix Number is: 26
+
+|0X_|
+|0XX|
+|X_0|
+
+The Score is: 6
+
+The Matrix Number is: 27
+
+|0X_|
+|0X_|
+|XX0|
+
+The Score is: 10
+
+The Matrix Number is: 28
+
+|XX0|
+|0X_|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 29
+
+|_X0|
+|0XX|
+|X_0|
+
+The Score is: 3
+
+The Matrix Number is: 30
+
+|_X0|
+|0X_|
+|XX0|
+
+The Score is: 5
+
+The Matrix Number is: 31
+
+|XX_|
+|0X0|
+|X_0|
+
+The Score is: 6
+
+The Matrix Number is: 32
+
+|_XX|
+|0X0|
+|X_0|
+
+The Score is: 14
+
+The Matrix Number is: 33
+
+|_X_|
+|0X0|
+|XX0|
+
+The Score is: 9
+
+The Matrix Number is: 34
+
+|XX_|
+|0X_|
+|X00|
+
+The Score is: 5
+
+The Matrix Number is: 35
+
+|_XX|
+|0X_|
+|X00|
+
+The Score is: 11
+
+The Matrix Number is: 36
+
+|_X_|
+|0XX|
+|X00|
+
+The Score is: 4
+
+The Matrix Number is: 37
+
+|0XX|
+|0_X|
+|X_0|
+
+The Score is: 1
+
+The Matrix Number is: 38
+
+|0X_|
+|0XX|
+|X_0|
+
+The Score is: 6
+
+The Matrix Number is: 39
+
+|0X_|
+|0_X|
+|XX0|
+
+The Score is: 1
+
+The Matrix Number is: 40
+
+|XX0|
+|0_X|
+|X_0|
+
+The Score is: 1
+
+The Matrix Number is: 41
+
+|_X0|
+|0XX|
+|X_0|
+
+The Score is: 3
+
+The Matrix Number is: 42
+
+|_X0|
+|0_X|
+|XX0|
+
+The Score is: 2
+
+The Matrix Number is: 43
+
+|XX_|
+|00X|
+|X_0|
+
+The Score is: 3
+
+The Matrix Number is: 44
+
+|_XX|
+|00X|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 45
+
+|_X_|
+|00X|
+|XX0|
+
+The Score is: -2
+
+The Matrix Number is: 46
+
+|XX_|
+|0_X|
+|X00|
+
+The Score is: 4
+
+The Matrix Number is: 47
+
+|_XX|
+|0_X|
+|X00|
+
+The Score is: 5
+
+The Matrix Number is: 48
+
+|_X_|
+|0XX|
+|X00|
+
+The Score is: 4
+
+The Matrix Number is: 49
+
+|0XX|
+|0__|
+|XX0|
+
+The Score is: 2
+
+The Matrix Number is: 50
+
+|0X_|
+|0X_|
+|XX0|
+
+The Score is: 10
+
+The Matrix Number is: 51
+
+|0X_|
+|0_X|
+|XX0|
+
+The Score is: 1
+
+The Matrix Number is: 52
+
+|XX0|
+|0__|
+|XX0|
+
+The Score is: -1
+
+The Matrix Number is: 53
+
+|_X0|
+|0X_|
+|XX0|
+
+The Score is: 5
+
+The Matrix Number is: 54
+
+|_X0|
+|0_X|
+|XX0|
+
+The Score is: 2
+
+The Matrix Number is: 55
+
+|XX_|
+|00_|
+|XX0|
+
+The Score is: -1
+
+The Matrix Number is: 56
+
+|_XX|
+|00_|
+|XX0|
+
+The Score is: -3
+
+The Matrix Number is: 57
+
+|_X_|
+|00X|
+|XX0|
+
+The Score is: -2
+
+The Matrix Number is: 58
+
+|XX_|
+|0_0|
+|XX0|
+
+The Score is: 1
+
+The Matrix Number is: 59
+
+|_XX|
+|0_0|
+|XX0|
+
+The Score is: 5
+
+The Matrix Number is: 60
+
+|_X_|
+|0X0|
+|XX0|
+
+The Score is: 9
+
+LEVEL is: 5 
+
+The Number of Matrices at this level is: 120 
+
+The Matrix Number is: 1
+
+|XX0|
+|0X0|
+|X_0|
+
+The Score is: -5
+
+The Matrix Number is: 2
+
+|XX0|
+|0X_|
+|X00|
+
+The Score is: -3
+
+The Matrix Number is: 3
+
+|XX0|
+|00X|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 4
+
+|XX0|
+|0_X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 5
+
+|XX0|
+|00_|
+|XX0|
+
+The Score is: -6
+
+The Matrix Number is: 6
+
+|XX0|
+|0_0|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 7
+
+|XXX|
+|000|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 8
+
+|XXX|
+|00_|
+|X00|
+
+The Score is: 5
+
+The Matrix Number is: 9
+
+|XX0|
+|00X|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 10
+
+|XX_|
+|00X|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 11
+
+|XX0|
+|00_|
+|XX0|
+
+The Score is: -6
+
+The Matrix Number is: 12
+
+|XX_|
+|000|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 13
+
+|XXX|
+|000|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 14
+
+|XXX|
+|0_0|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 15
+
+|XX0|
+|0X0|
+|X_0|
+
+The Score is: -5
+
+The Matrix Number is: 16
+
+|XX_|
+|0X0|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 17
+
+|XX0|
+|0_0|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 18
+
+|XX_|
+|000|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 19
+
+|XXX|
+|00_|
+|X00|
+
+The Score is: 5
+
+The Matrix Number is: 20
+
+|XXX|
+|0_0|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 21
+
+|XX0|
+|0X_|
+|X00|
+
+The Score is: -3
+
+The Matrix Number is: 22
+
+|XX_|
+|0X0|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 23
+
+|XX0|
+|0_X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 24
+
+|XX_|
+|00X|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 25
+
+|0XX|
+|0X0|
+|X_0|
+
+The Score is: 11
+
+The Matrix Number is: 26
+
+|0XX|
+|0X_|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 27
+
+|0XX|
+|00X|
+|X_0|
+
+The Score is: -8
+
+The Matrix Number is: 28
+
+|0XX|
+|0_X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 29
+
+|0XX|
+|00_|
+|XX0|
+
+The Score is: -11
+
+The Matrix Number is: 30
+
+|0XX|
+|0_0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 31
+
+|XXX|
+|000|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 32
+
+|XXX|
+|00_|
+|X00|
+
+The Score is: 5
+
+The Matrix Number is: 33
+
+|0XX|
+|00X|
+|X_0|
+
+The Score is: -8
+
+The Matrix Number is: 34
+
+|_XX|
+|00X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 35
+
+|0XX|
+|00_|
+|XX0|
+
+The Score is: -11
+
+The Matrix Number is: 36
+
+|_XX|
+|000|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 37
+
+|XXX|
+|000|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 38
+
+|XXX|
+|0_0|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 39
+
+|0XX|
+|0X0|
+|X_0|
+
+The Score is: 11
+
+The Matrix Number is: 40
+
+|_XX|
+|0X0|
+|X00|
+
+The Score is: 11
+
+The Matrix Number is: 41
+
+|0XX|
+|0_0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 42
+
+|_XX|
+|000|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 43
+
+|XXX|
+|00_|
+|X00|
+
+The Score is: 5
+
+The Matrix Number is: 44
+
+|XXX|
+|0_0|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 45
+
+|0XX|
+|0X_|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 46
+
+|_XX|
+|0X0|
+|X00|
+
+The Score is: 11
+
+The Matrix Number is: 47
+
+|0XX|
+|0_X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 48
+
+|_XX|
+|00X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 49
+
+|0XX|
+|0X0|
+|X_0|
+
+The Score is: 11
+
+The Matrix Number is: 50
+
+|0XX|
+|0X_|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 51
+
+|0X0|
+|0XX|
+|X_0|
+
+The Score is: 3
+
+The Matrix Number is: 52
+
+|0X_|
+|0XX|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 53
+
+|0X0|
+|0X_|
+|XX0|
+
+The Score is: 5
+
+The Matrix Number is: 54
+
+|0X_|
+|0X0|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 55
+
+|XX0|
+|0X0|
+|X_0|
+
+The Score is: -5
+
+The Matrix Number is: 56
+
+|XX0|
+|0X_|
+|X00|
+
+The Score is: -3
+
+The Matrix Number is: 57
+
+|0X0|
+|0XX|
+|X_0|
+
+The Score is: 3
+
+The Matrix Number is: 58
+
+|_X0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 59
+
+|0X0|
+|0X_|
+|XX0|
+
+The Score is: 5
+
+The Matrix Number is: 60
+
+|_X0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 61
+
+|XX0|
+|0X0|
+|X_0|
+
+The Score is: -5
+
+The Matrix Number is: 62
+
+|XX_|
+|0X0|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 63
+
+|0XX|
+|0X0|
+|X_0|
+
+The Score is: 11
+
+The Matrix Number is: 64
+
+|_XX|
+|0X0|
+|X00|
+
+The Score is: 11
+
+The Matrix Number is: 65
+
+|0X_|
+|0X0|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 66
+
+|_X0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 67
+
+|XX0|
+|0X_|
+|X00|
+
+The Score is: -3
+
+The Matrix Number is: 68
+
+|XX_|
+|0X0|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 69
+
+|0XX|
+|0X_|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 70
+
+|_XX|
+|0X0|
+|X00|
+
+The Score is: 11
+
+The Matrix Number is: 71
+
+|0X_|
+|0XX|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 72
+
+|_X0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 73
+
+|0XX|
+|00X|
+|X_0|
+
+The Score is: -8
+
+The Matrix Number is: 74
+
+|0XX|
+|0_X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 75
+
+|0X0|
+|0XX|
+|X_0|
+
+The Score is: 3
+
+The Matrix Number is: 76
+
+|0X_|
+|0XX|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 77
+
+|0X0|
+|0_X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 78
+
+|0X_|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 79
+
+|XX0|
+|00X|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 80
+
+|XX0|
+|0_X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 81
+
+|0X0|
+|0XX|
+|X_0|
+
+The Score is: 3
+
+The Matrix Number is: 82
+
+|_X0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 83
+
+|0X0|
+|0_X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 84
+
+|_X0|
+|00X|
+|XX0|
+
+The Score is: -3
+
+The Matrix Number is: 85
+
+|XX0|
+|00X|
+|X_0|
+
+The Score is: 0
+
+The Matrix Number is: 86
+
+|XX_|
+|00X|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 87
+
+|0XX|
+|00X|
+|X_0|
+
+The Score is: -8
+
+The Matrix Number is: 88
+
+|_XX|
+|00X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 89
+
+|0X_|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 90
+
+|_X0|
+|00X|
+|XX0|
+
+The Score is: -3
+
+The Matrix Number is: 91
+
+|XX0|
+|0_X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 92
+
+|XX_|
+|00X|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 93
+
+|0XX|
+|0_X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 94
+
+|_XX|
+|00X|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 95
+
+|0X_|
+|0XX|
+|X00|
+
+The Score is: 3
+
+The Matrix Number is: 96
+
+|_X0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 97
+
+|0XX|
+|00_|
+|XX0|
+
+The Score is: -11
+
+The Matrix Number is: 98
+
+|0XX|
+|0_0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 99
+
+|0X0|
+|0X_|
+|XX0|
+
+The Score is: 5
+
+The Matrix Number is: 100
+
+|0X_|
+|0X0|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 101
+
+|0X0|
+|0_X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 102
+
+|0X_|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 103
+
+|XX0|
+|00_|
+|XX0|
+
+The Score is: -6
+
+The Matrix Number is: 104
+
+|XX0|
+|0_0|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 105
+
+|0X0|
+|0X_|
+|XX0|
+
+The Score is: 5
+
+The Matrix Number is: 106
+
+|_X0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 107
+
+|0X0|
+|0_X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 108
+
+|_X0|
+|00X|
+|XX0|
+
+The Score is: -3
+
+The Matrix Number is: 109
+
+|XX0|
+|00_|
+|XX0|
+
+The Score is: -6
+
+The Matrix Number is: 110
+
+|XX_|
+|000|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 111
+
+|0XX|
+|00_|
+|XX0|
+
+The Score is: -11
+
+The Matrix Number is: 112
+
+|_XX|
+|000|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 113
+
+|0X_|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 114
+
+|_X0|
+|00X|
+|XX0|
+
+The Score is: -3
+
+The Matrix Number is: 115
+
+|XX0|
+|0_0|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 116
+
+|XX_|
+|000|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 117
+
+|0XX|
+|0_0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 118
+
+|_XX|
+|000|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 119
+
+|0X_|
+|0X0|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 120
+
+|_X0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+LEVEL is: 6 
+
+The Number of Matrices at this level is: 120 
+
+The Matrix Number is: 1
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 2
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 3
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 4
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 5
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 6
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 7
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 8
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 9
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 10
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 11
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 12
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 13
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 14
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 15
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 16
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 17
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 18
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 19
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 20
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 21
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 22
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 23
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 24
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 25
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 26
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 27
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 28
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 29
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 30
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 31
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 32
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 33
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 34
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 35
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 36
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 37
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 38
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 39
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 40
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 41
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 42
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 43
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 44
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 45
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 46
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 47
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 48
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 49
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 50
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 51
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 52
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 53
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 54
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 55
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 56
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 57
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 58
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 59
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 60
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 61
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 62
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 63
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 64
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 65
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 66
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 67
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 68
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 69
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 70
+
+|XXX|
+|0X0|
+|X00|
+
+The Score is: 16
+
+The Matrix Number is: 71
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 72
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 73
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 74
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 75
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 76
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 77
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 78
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 79
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 80
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 81
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 82
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 83
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 84
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 85
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 86
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 87
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 88
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 89
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 90
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 91
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 92
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 93
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 94
+
+|XXX|
+|00X|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 95
+
+|0XX|
+|0XX|
+|X00|
+
+The Score is: 8
+
+The Matrix Number is: 96
+
+|XX0|
+|0XX|
+|X00|
+
+The Score is: 0
+
+The Matrix Number is: 97
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 98
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 99
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 100
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 101
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 102
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 103
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 104
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 105
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 106
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 107
+
+|0X0|
+|0XX|
+|XX0|
+
+The Score is: 8
+
+The Matrix Number is: 108
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 109
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 110
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 111
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 112
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 113
+
+|0XX|
+|00X|
+|XX0|
+
+The Score is: -8
+
+The Matrix Number is: 114
+
+|XX0|
+|00X|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 115
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 116
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 117
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 118
+
+|XXX|
+|000|
+|XX0|
+
+The Score is: 0
+
+The Matrix Number is: 119
+
+|0XX|
+|0X0|
+|XX0|
+
+The Score is: 16
+
+The Matrix Number is: 120
+
+|XX0|
+|0X0|
+|XX0|
+
+The Score is: 0
+
