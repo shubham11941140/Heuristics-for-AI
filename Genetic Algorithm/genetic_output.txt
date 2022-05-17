@@ -1,0 +1,18 @@
+enter the seed for randomization: enter the number of items: enter the max weight: enter the weights: 
+enter the value: 
+enter the loss if not taken: 
+enter the number of iteration:  
+Last Generation
+[0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0]
+[0, 0, 1, 0, 0, 1, 1]
+[0, 1, 1, 0, 0, 0, 0]
+[0, 0, 1, 0, 0, 0, 0]
+[0, 0, 1, 1, 1, 0, 0]
+[0, 0, 1, 1, 1, 0, 0]
+[0, 0, 1, 1, 1, 0, 0]
+[1, 1, 1, 1, 1, 0, 0]
+[0, 0, 1, 0, 0, 0, 0]
+The Finest Gene is:
+[0, 1, 1, 0, 1, 0, 1]
+The fitness of this gene is: 100
