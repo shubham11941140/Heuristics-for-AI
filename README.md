@@ -21,3 +21,8 @@ Contains a variety of heuristic algorithms to solve some real-world problems.
 ## Robot Movement
 
 ![image](https://user-images.githubusercontent.com/63910248/168768567-db97fbc2-1cb8-44a8-bc71-b3e32a78045a.png)
+
+### Solution using A*
+
+![image](https://user-images.githubusercontent.com/63910248/168769138-e797bd05-d489-4d56-a993-aadef7c18fde.png)
+
