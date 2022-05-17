@@ -99,6 +99,10 @@ For cross over two genes are selected from the current generation and they are r
 
 ![image](https://user-images.githubusercontent.com/63910248/168806073-3ce7af07-a541-4d78-ad75-e19d5fc4817d.png)
 
+#### The values at 0 are the solution
+
+![image](https://user-images.githubusercontent.com/63910248/168815026-b4179dbd-a2a1-478c-8a7c-baabffcd83e2.png)
+
 **Pen Paper solution has been attached for reference, can verify the solution from the same**
 
 ## SATPLAN
