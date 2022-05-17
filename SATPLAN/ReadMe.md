@@ -4,10 +4,15 @@
 
 ## Execution:
 
-![image](https://user-images.githubusercontent.com/63910248/168810368-5c996a3f-2134-4c99-95f7-39ab38ea4df0.png)
+![image](https://user-images.githubusercontent.com/63910248/168810808-bc0febc6-c847-4239-8f09-2e75fb7d8a91.png)
+
 
 ![Program Execution 2](https://user-images.githubusercontent.com/63910248/168810382-ddb98a17-e77e-44e6-b214-94a0edcedfdc.PNG)
 
 ## Solution (Final Plan)
 
 ![Final Plan Problem Solution](https://user-images.githubusercontent.com/63910248/168810429-fe5c5143-31fc-4171-831d-814039d97793.PNG)
+
+# References:
+
+**MiniSAT - Open-Source SAT Solver - http://minisat.se/ (Install from: http://minisat.se/MiniSat.html)**
