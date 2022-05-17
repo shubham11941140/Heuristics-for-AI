@@ -1,7 +1,7 @@
 # Heuristics-for-AI
 Contains a variety of heuristic algorithms to solve some real-world problems.
 
-N-Puzzle
+## N-Puzzle
 
 ![image](https://user-images.githubusercontent.com/63910248/168763166-29a5b5db-172b-4031-a1c3-8bab69edf08a.png)
 
@@ -18,3 +18,6 @@ N-Puzzle
 
 ![image](https://user-images.githubusercontent.com/63910248/168765847-0b9adbdb-d2b8-432a-b3f1-769f214c0665.png)
 
+## Robot Movement
+
+![image](https://user-images.githubusercontent.com/63910248/168768567-db97fbc2-1cb8-44a8-bc71-b3e32a78045a.png)
