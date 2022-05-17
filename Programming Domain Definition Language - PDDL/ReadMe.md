@@ -1,5 +1,3 @@
-Solved using PDDL - https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language
-
 ## Visual Studio Code
 **Download PDDL Extension: https://marketplace.visualstudio.com/items?itemName=jan-dolejsi.pddl**
 
@@ -8,6 +6,8 @@ Solved using PDDL - https://en.wikipedia.org/wiki/Planning_Domain_Definition_Lan
 **This helps in automatic compilation of the files and gives the output directly, no extra tools are needed**
 
 # External References:
+
+**Wikipedia - https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language**
 
 **PDDL Documentation: http://pddl4j.imag.fr/**
 
