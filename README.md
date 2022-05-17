@@ -100,3 +100,19 @@ For cross over two genes are selected from the current generation and they are r
 ![image](https://user-images.githubusercontent.com/63910248/168806073-3ce7af07-a541-4d78-ad75-e19d5fc4817d.png)
 
 **Pen Paper solution has been attached for reference, can verify the solution from the same**
+
+## SATPLAN
+
+![image](https://user-images.githubusercontent.com/63910248/168809353-99aff970-f45c-4e2f-8bbb-8c7c36080968.png)
+
+### Solution:
+
+**DIMACS file is generated at every iteration till solution is obtained**
+
+**SAT Solver out file is generated at every iteration till solution is obtained (MiniSAT Open-Source Solver used)**
+
+#### Final Plan:
+
+![Final Plan Problem Solution](https://user-images.githubusercontent.com/63910248/168809552-c4a31b41-e3d0-43a8-b7f0-98116ef889eb.PNG)
+
+
