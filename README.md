@@ -89,4 +89,14 @@ For cross over two genes are selected from the current generation and they are r
 
 ![image](https://user-images.githubusercontent.com/63910248/168803465-06814d3b-ff74-435d-b0d6-ef1b311efeea.png)
 
+## Bayesian Belief Network
 
+![image](https://user-images.githubusercontent.com/63910248/168805640-a13c2f9d-6707-4a0f-9292-fca9247b8255.png)
+
+![image](https://user-images.githubusercontent.com/63910248/168805958-9b4384b9-63be-49f6-8b12-7086b4559fbe.png)
+
+### Solution:
+
+![image](https://user-images.githubusercontent.com/63910248/168806073-3ce7af07-a541-4d78-ad75-e19d5fc4817d.png)
+
+**Pen Paper solution has been attached for reference, can verify the solution from the same**
