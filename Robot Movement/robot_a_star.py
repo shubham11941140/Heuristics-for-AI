@@ -1,5 +1,6 @@
 # Importing Dependencies
 from heapq import heappush, heappop
+import sys
 from time import time
 
 # CONSTANTS
@@ -119,7 +120,7 @@ if __name__ == '__main__':
 
     if graph[start[0]][start[1]] == 1 or graph[goal[0]][goal[1]] == 1:
         print("Invalid Input! The start or goal state cannot be a blocked cell.")
-        exit()
+        sys.exit()
 
     # start the timer
     st = time()
