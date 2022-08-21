@@ -59,7 +59,7 @@ def print_solution_len(solution):
     solution_path = []
 
     # Tracing the goal state to the start state path
-    while str(solution) in parent.keys():
+    while str(solution) in parent:
         solution_path.append(solution)
         solution = parent[str(solution)]
 

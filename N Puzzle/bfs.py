@@ -87,7 +87,7 @@ def solve(initial, goal):
         # The children are added to the frontier if they are not already present in the frontier or
         # in the explored set.
         for child in children:
-            if str(child) not in visited.keys():
+            if str(child) not in visited:
                 queue.append(child)
                 visited[str(child)] = current_state
 
