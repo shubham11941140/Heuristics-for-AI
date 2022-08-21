@@ -12,9 +12,9 @@ def fitness(gene, weights, value, loss, max_weight, sum_weight):
     total_value = 0
     weight = 0
 
-    for i in range(len(gene)):
+    for i, item in enumerate(gene):
 
-        if not gene[i]:
+        if not item:
             total_value -= (loss[i])
 
         else:
@@ -36,12 +36,12 @@ def choose(fit_values):
     guess = randint(0, total_value - 1)
     prev = 0
 
-    for i in range(len(prob)):
+    for i, item in enumerate(prob):
 
-        if (guess >= prev) & (guess < prob[i]):
+        if (guess >= prev) & (guess < item):
             return i
 
-        prev = prob[i]
+        prev = item
 
 # the function responsible for cross breeding and mutation
 def cross_mut(gene_a, gene_b):
@@ -76,8 +76,8 @@ def actual_fitness(gene,value,loss):
 
     result = 0
 
-    for i in range(len(gene)):
-        result = result + value[i] if gene[i] == 1 else result - loss[i]
+    for i, item in enumerate(gene):
+        result = result + value[i] if item == 1 else result - loss[i]
 
     return result
 
