@@ -126,7 +126,7 @@ def main():
             fitvalue.append(fitness_value)
             fittest_gene = max(fittest_gene,fitness_value)
 
-            if not len(most_fit_gene):
+            if not most_fit_gene:
                 most_fit_gene = gene
                 most_fit_value = fitness_value
 
