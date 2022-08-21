@@ -93,7 +93,7 @@ def iterative_dfs(start, goal):
     parent[str(start)] = None
 
     # while stack (frontier) is not empty
-    while len(frontier):
+    while frontier:
 
         # pop the first element from the stack (frontier)
         node = frontier.pop()
