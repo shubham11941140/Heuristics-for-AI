@@ -103,7 +103,7 @@ def a_star(start, goal, n):
         for move in moves:
 
             # Push the move to the priority queue if not visited
-            if str(move) not in visited.keys():
+            if str(move) not in visited:
 
                 # Mark the move as visited by setting the parent of the move as the current state
                 visited[str(move)] = state
@@ -115,7 +115,7 @@ def print_solution_len(solution):
     solution_path = []
 
     # Tracing the goal state to the start state path
-    while str(solution) in visited.keys():
+    while str(solution) in visited:
         solution_path.append(solution)
         solution = visited[str(solution)]
 
