@@ -7,7 +7,7 @@ from time import time
 SOLUTION_PATH_THRESHOLD = 300
 
 # This dictionary to store parent of child states and marks the visited states
-visited = dict()
+visited = {}
 
 # Gets the possible moves from the state
 def get_moves(state, graph):
