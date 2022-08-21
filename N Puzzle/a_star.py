@@ -6,7 +6,7 @@ from time import time
 SOLUTION_PATH_THRESHOLD = 300
 
 # This dictionary to store parent of child states and marks the visited states
-visited = dict()
+visited = {}
 
 # This utility function prints the state
 def printstate(state):

@@ -65,7 +65,7 @@ def solve(initial, goal):
     queue = []
 
     # The visited dict is used to store the states that have been explored.
-    visited = dict()
+    visited = {}
 
     # The initial state is added to the frontier.
     queue.append(initial)
